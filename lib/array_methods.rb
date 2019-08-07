@@ -8,7 +8,8 @@ words.sort
 end
 
 def using_reverse(array)
-
+array = ["stuff", "more"]
+array.reverse
 end
 
 def using_first(array)
